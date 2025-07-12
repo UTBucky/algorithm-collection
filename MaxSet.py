@@ -1,6 +1,4 @@
 # Tallent 'Bucky' Hagan
-# CS 325
-# Homework 4
 
 def max_independent_set(nums):
     """Finds the maximum sum of non-consecutive integers in an array."""
