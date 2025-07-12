@@ -1,6 +1,4 @@
 # Tallent 'Bucky' Hagan
-# CS 325
-# Homework 8
 
 from collections import deque
 
