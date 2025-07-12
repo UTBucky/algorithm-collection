@@ -1,6 +1,4 @@
 # Tallent 'Bucky' Hagan
-# CS 325
-# Homework 4
 
 def powerset(inputSet):
     """Returns a list of all subsets of the input set using backtracking."""
