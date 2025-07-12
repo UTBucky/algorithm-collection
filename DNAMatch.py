@@ -1,6 +1,4 @@
 # Tallent 'Bucky' Hagan
-# CS 325
-# Homework 3 - Dynamic Programming
 
 def dna_match_topdown(dna_string1, dna_string2):
     """
