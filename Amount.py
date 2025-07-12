@@ -1,6 +1,4 @@
 # Tallent 'Bucky' Hagan
-# CS 325
-# Homework 5
 
 from copy import deepcopy
 
