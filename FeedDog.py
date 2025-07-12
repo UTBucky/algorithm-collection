@@ -1,6 +1,4 @@
 # Tallent 'Bucky' Hagan
-# CS 325
-# Homework 5
 
 def feedDog(hunger_level, biscuit_size):
     """Greedy algorithm to calculate maximum numbers of dogs fed."""
